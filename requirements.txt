@@ -1,0 +1,6 @@
+langchain_community
+langchain_anthropic
+langchain_experimental
+matplotlib
+langgraph
+putm

@@ -1,0 +1,21 @@
+# Ignore virtual environment
+ember-env/
+data/
+logs/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.png
+*.mp4
+*.jpg
+*.wav
+*.mp3
+
+# Ignore environment and config files
+.env
+config.json
+secrets.env
